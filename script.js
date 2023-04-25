@@ -46,6 +46,10 @@
     id("remove-all").removeEventListener("click", removeAllIcons);
   }
 
+
+
+//
+  
   function id(id) {
     return document.getElementById(id);
   }
